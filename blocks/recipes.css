@@ -21,13 +21,9 @@
   margin: 0 0 80px;
 }
 
-.recipes__video-caption {
-  font-size: 20px;
-  line-height: 30px;
-  justify-content: space-between;
-  display: flex;
-  margin: 24px 0 0;
-  font-weight: 500;
+.recipes__iframe {
+  width: 480px;
+  height: 273px;
 }
 
 .recipes__videos {
@@ -38,7 +34,11 @@
   margin: 0;
 }
 
-.recipes__iframe {
-  width: 480px;
-  height: 273px;
+.recipes__video-caption {
+  font-size: 20px;
+  line-height: 30px;
+  justify-content: space-between;
+  display: flex;
+  margin: 24px 0 0;
+  font-weight: 500;
 }
