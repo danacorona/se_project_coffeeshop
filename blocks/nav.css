@@ -15,6 +15,12 @@
   text-decoration: none;
   font-weight: 500;
   color: #000;
+  transition: opacity 0.5s;
+  cursor: pointer;
+}
+
+.nav__link:hover {
+  opacity: 0.5;
 }
 
 .nav__logo {
