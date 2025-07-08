@@ -24,6 +24,7 @@
 .recipes__iframe {
   width: 480px;
   height: 273px;
+  border: 0;
 }
 
 .recipes__videos {
@@ -32,6 +33,7 @@
   justify-content: center;
   gap: 40px;
   margin: 0;
+  padding: 0;
 }
 
 .recipes__video-caption {
